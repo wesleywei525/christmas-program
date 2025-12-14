@@ -167,7 +167,7 @@ audio::-webkit-media-controls-panel {
 <img src="images/painting02.jpg" alt="都市夜色" onclick="this.requestFullscreen()">
 
 <audio controls preload="metadata">
-  <source src="audio/painting02.mp3" type="audio/mpeg">
+  <source src="audio/painting02.m4a" type="audio/mpeg">
   您的浏览器不支持音频播放。
 </audio>
 
