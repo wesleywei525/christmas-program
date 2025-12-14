@@ -142,7 +142,7 @@ audio::-webkit-media-controls-panel {
 <img src="images/painting01.jpg" alt="Jerusalem from the Mount of Olives" onclick="this.requestFullscreen()">
 
 <audio controls preload="metadata">
-  <source src="audio/painting01.m4a" type="audio/mpeg">
+  <source src="audio/painting01.mp3" type="audio/mpeg">
   您的浏览器不支持音频播放。
 </audio>
 
