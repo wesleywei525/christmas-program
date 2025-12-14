@@ -137,7 +137,7 @@ audio::-webkit-media-controls-panel {
 <!-- 作品 1 -->
 <div class="painting">
 <div class="painting-number">作品 01</div>
-<h2 class="painting-title">Jerusalem from the Mount of Olives</h2>
+<h2 class="painting-title"> Jerusalem from the Mount of Olives </h2>
 
 <img src="images/painting01.jpg" alt="Jerusalem from the Mount of Olives" onclick="this.requestFullscreen()">
 
@@ -153,7 +153,7 @@ audio::-webkit-media-controls-panel {
 </div>
 
 <div class="painting-description">
-这幅作品描绘了春日山间的宁静景致。远山云雾缭绕，近处溪水潺潺，几株桃花点缀其间。整体色调以淡雅的青绿为主，营造出清新脱俗的意境。
+Frederic Edwin Church (1826-1900) was an American landscape painter born in Hartford, Connecticut. He was a central figure in the Hudson River School of American landscape painters. While committed to the natural sciences, he was "always concerned with including a spiritual dimension in his works". The family wealth came from Church's father, Joseph Church, a silversmith and watchmaker in Hartford, Connecticut. At eighteen years of age, Church became the pupil of Thomas Cole in Catskill, New York after Daniel Wadsworth, a family neighbor and founder of the Wadsworth Atheneum, introduced the two. In May 1848, Church was elected as the youngest Associate of the National Academy of Design and was promoted to Academician the following year. Soon after, he sold his first major work to Hartford's Wadsworth Atheneum.
 </div>
 </div>
 
@@ -162,12 +162,12 @@ audio::-webkit-media-controls-panel {
 <!-- 作品 2 -->
 <div class="painting">
 <div class="painting-number">作品 02</div>
-<h2 class="painting-title">都市夜色</h2>
+<h2 class="painting-title"> The Angel Appearing to Zacharias </h2>
 
-<img src="images/painting02.jpg" alt="都市夜色" onclick="this.requestFullscreen()">
+<img src="images/painting02.jpg" alt="The Angel Appearing to Zacharias" onclick="this.requestFullscreen()">
 
 <audio controls preload="metadata">
-  <source src="audio/painting02.m4a" type="audio/mpeg">
+  <source src="audio/painting02.mp3" type="audio/mpeg">
   您的浏览器不支持音频播放。
 </audio>
 
@@ -178,7 +178,10 @@ audio::-webkit-media-controls-panel {
 </div>
 
 <div class="painting-description">
-城市的霓虹在夜幕下闪烁，川流不息的车流化作光的河流。这幅作品捕捉了现代都市的律动与喧嚣，同时也透露出都市人内心的某种孤独。
+
+Blake devoted much of the year 1799-1800 to fifty visionary scenes drawn from the Bible, a commission he received from his principal patron, the government clerk Thomas Butts. About thirty of these works have been identified; it is thought that some have not survived owing to the fragility of the materials.
+This scene, the earliest in the New Testament narrative cycle, illustrates verses from Luke (1:11-13), in which Gabriel appears to the righteous Zacharias, a high priest of the Jewish Temple in Jerusalem, to announce that Zacharias' elderly and barren wife Elizabeth will give birth to a son, Saint John the Baptist.
+
 </div>
 </div>
 
@@ -187,9 +190,9 @@ audio::-webkit-media-controls-panel {
 <!-- 作品 3 -->
 <div class="painting">
 <div class="painting-number">作品 03</div>
-<h2 class="painting-title">静物·花与书</h2>
+<h2 class="painting-title"> The Annunciation </h2>
 
-<img src="images/painting03.jpg" alt="静物·花与书" onclick="this.requestFullscreen()">
+<img src="images/painting03.jpg" alt="The Annunciation" onclick="this.requestFullscreen()">
 
 <audio controls preload="metadata">
   <source src="audio/painting03.mp3" type="audio/mpeg">
@@ -203,7 +206,11 @@ audio::-webkit-media-controls-panel {
 </div>
 
 <div class="painting-description">
-午后的阳光透过窗户洒在书桌上，一束鲜花插在玻璃瓶中，几本翻开的书静静躺着。这是对日常生活诗意的捕捉，宁静而温暖。
+
+This scene shows the Christian story of the Annunciation, as told in the Gospel of James. In this version, Mary is met by an angel she cannot see while gathering water from a well. He tells her that she will have a baby and that he should be named Jesus.
+After studying in London and Paris, Arthur Hacker spent time in Spain and Morocco. This had a strong influence on his art.
+Mary's clothing probably reflects Islamic dress Hacker saw during his travels. Infra-red photography shows that the painting originally included a woman wearing a headscarf sitting behind Mary.
+
 </div>
 </div>
 
