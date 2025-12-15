@@ -231,8 +231,8 @@ Mary's clothing probably reflects Islamic dress Hacker saw during his travels. I
 
 <!-- 作品 4 -->
 <div class="painting">
-<div class="painting-number">《探望》</div>
-<h2 class="painting-title"> painting04 </h2>
+<div class="painting-number">作品 04</div>
+<h2 class="painting-title">《探望》</h2>
 <h2 class="painting-title"> The Visitation </h2>
 <h3 class="artist"> 伦勃朗·范·莱因 (Rembrandt Harmenszoon van Rijn) </h3>
 
