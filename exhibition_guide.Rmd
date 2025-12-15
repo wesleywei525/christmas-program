@@ -62,6 +62,13 @@ h1 {
   font-weight: bold;
 }
 
+.artist {
+  font-size: 1.1em;
+  color: #2c3e50;
+  margin: 10px 0 20px 0;
+  font-weight: bold;
+}
+
 .painting img {
   width: 100%;
   height: auto;
@@ -137,7 +144,9 @@ audio::-webkit-media-controls-panel {
 <!-- 作品 1 -->
 <div class="painting">
 <div class="painting-number">作品 01</div>
-<h2 class="painting-title"> Jerusalem from the Mount of Olives </h2>
+<h2 class="painting-title"> 《从橄榄山眺望耶路撒冷》 </h2>
+<h2 class="painting-title">  Jerusalem from the Mount of Olives </h2>
+<h3 class="artist"> 弗雷德里克·埃德温·丘奇(Frederick Edwin Church) </h3>
 
 <img src="images/painting01.jpg" alt="Jerusalem from the Mount of Olives" onclick="this.requestFullscreen()">
 
@@ -162,7 +171,9 @@ Frederic Edwin Church (1826-1900) was an American landscape painter born in Hart
 <!-- 作品 2 -->
 <div class="painting">
 <div class="painting-number">作品 02</div>
+<h2 class="painting-title">《天使向撒迦利亚显现》</h2>
 <h2 class="painting-title"> The Angel Appearing to Zacharias </h2>
+<h3 class="artist"> 威廉·布莱克 (William Blake) </h3>
 
 <img src="images/painting02.jpg" alt="The Angel Appearing to Zacharias" onclick="this.requestFullscreen()">
 
@@ -190,7 +201,9 @@ This scene, the earliest in the New Testament narrative cycle, illustrates verse
 <!-- 作品 3 -->
 <div class="painting">
 <div class="painting-number">作品 03</div>
+<h2 class="painting-title">《天使报喜》</h2>
 <h2 class="painting-title"> The Annunciation </h2>
+<h3 class="artist"> 亚瑟·哈克 (Arthur Hacker) </h3>
 
 <img src="images/painting03.jpg" alt="The Annunciation" onclick="this.requestFullscreen()">
 
@@ -218,8 +231,10 @@ Mary's clothing probably reflects Islamic dress Hacker saw during his travels. I
 
 <!-- 作品 4 -->
 <div class="painting">
-<div class="painting-number"> 作品 04 </div>
+<div class="painting-number">《探望》</div>
 <h2 class="painting-title"> painting04 </h2>
+<h2 class="painting-title"> The Visitation </h2>
+<h3 class="artist"> 伦勃朗·范·莱因 (Rembrandt Harmenszoon van Rijn) </h3>
 
 <img src="images/painting04.jpg" alt="作品 04" onclick="this.requestFullscreen()">
 
@@ -244,7 +259,9 @@ Mary's clothing probably reflects Islamic dress Hacker saw during his travels. I
 <!-- 作品 5 -->
 <div class="painting">
 <div class="painting-number"> 作品 05 </div>
-<h2 class="painting-title"> painting05 </h2>
+<h2 class="painting-title">《站立的年轻牧羊女》</h2>
+<h2 class="painting-title"> Young Shepherdess Standing </h2>
+<h3 class="artist"> 威廉-阿道夫·布格罗 (William-Adolphe Bouguereau) </h3>
 
 <img src="images/painting05.jpg" alt="作品 05" onclick="this.requestFullscreen()">
 
